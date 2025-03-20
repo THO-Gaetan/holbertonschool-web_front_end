@@ -213,7 +213,7 @@ a:active {
     color: var(--text-color);
 }
 
-footer {
+.footer {
     padding: var(--footer-padding);
 }
 

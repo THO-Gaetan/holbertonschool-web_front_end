@@ -325,7 +325,7 @@ a:active {
     fill: var(--text-color);
 }
 
-footer {
+.footer {
     padding: var(--footer-padding);
 }
 
